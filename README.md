@@ -79,5 +79,5 @@ Becoming a successful system developer requires a effective approach, blending b
 <img src="./Images/pc assemble.jpg" alt="Image Alt Text" width="300"/>
 
 #### Reflection
-In this lab, we were able to learn to assemble pc, and got to know more about the components of PC. 
+In this lab, we delved into the hands-on experience of assembling a PC, deepening our understanding of its intricate components. Through this immersive process, we not only acquired practical skills in assembling a computer but also gained comprehensive insights into the fundamental building blocks that power these technological marvels. This firsthand exploration has not only expanded our knowledge but has also equipped us with a practical understanding of the synergy among the various components within a PC. As we navigated through the intricacies of PC assembly, we discovered the significance of each component, contributing to a richer and more profound comprehension of the technology that drives modern computing.
 
