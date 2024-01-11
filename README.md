@@ -37,7 +37,7 @@ Before this, I graduated in the pre-U program "UTM FOUNDATION IN PHYSICAL SCIENC
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./Certificates/Transcript.jpg" alt="Image 1" width="20%">
-  <img src="./Certificates/spm.jpg" alt="Image 2" width="20%">
+  <img src="./Certificates/spm.png" alt="Image 2" width="20%">
 </div>
 
 ## Assignments
