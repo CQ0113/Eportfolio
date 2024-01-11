@@ -9,12 +9,12 @@ A uni student in Software Engineering
 -------------------------------------
 #### Here are some pictures about me
 <div style="display: flex; justify-content: space-between;">
-  <img src="./CQimg/CQ1.jp" alt="Image 1" width="48%">
-  <img src="./CQimg/CQ2.jp" alt="Image 2" width="48%">
+  <img src="./CQimg/CQ1.jpg" alt="Image 1" width="10%">
+  <img src="./CQimg/CQ2.jp" alt="Image 2" width="10%">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./CQimg/CQ3.jp" alt="Image 1" width="48%">
-  <img src="./CQimg/CQ4.jp" alt="Image 2" width="48%">
+  <img src="./CQimg/CQ3.jpg" alt="Image 1" width="10%">
+  <img src="./CQimg/CQ4.jpg" alt="Image 2" width="10%">
 </div>
 
 * 🌍  I'm based in Bukit Mertarjam, Penang
@@ -31,13 +31,13 @@ C++, Python...
 Before this, I graduated in the pre-U program "UTM FOUNDATION IN PHYSICAL SCIENCE" offered by UTM SPACE
 ### Certificates & Qualifications
 <div style="display: flex; justify-content: space-between;">
-  <img src="./Certificates/Found.jpg" alt="Image 1" width="48%">
-  <img src="./Certificates/MUET.jpg" alt="Image 2" width="48%">
+  <img src="./Certificates/Found.jpg" alt="Image 1" width="10%">
+  <img src="./Certificates/MUET.jpg" alt="Image 2" width="10%">
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./Certificates/Transcript.jpg" alt="Image 1" width="48%">
-  <img src="./Certificates/spm.jpg" alt="Image 2" width="48%">
+  <img src="./Certificates/Transcript.jpg" alt="Image 1" width="10%">
+  <img src="./Certificates/spm.jpg" alt="Image 2" width="10%">
 </div>
 
 ## Assignments
