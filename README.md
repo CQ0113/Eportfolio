@@ -1,4 +1,3 @@
-
 # Github Eportfolio
 
 This is an electronic portfolio (e-portfolio). In this portfolio, I'll showcase the sample of collection of my work, demonstrations, and artifacts that showcase my learning progression, achievement, and evidence of what I can do. 
@@ -9,10 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A uni student in Software Engineering
 -------------------------------------
 #### Here are some pictures about me
-<img src="./CQimg/CQ1.jpg" alt="Image Alt Text" width="150"/>
-<img src="./CQimg/CQ2.jpg" alt="Image Alt Text" width="150"/>
-<img src="./CQimg/CQ3.jpg" alt="Image Alt Text" width="150"/>
-<img src="./CQimg/CQ4.jpg" alt="Image Alt Text" width="150"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./CQimg/CQ1.jp" alt="Image 1" width="48%">
+  <img src="./CQimg/CQ2.jp" alt="Image 2" width="48%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./CQimg/CQ3.jp" alt="Image 1" width="48%">
+  <img src="./CQimg/CQ4.jp" alt="Image 2" width="48%">
+</div>
 
 * 🌍  I'm based in Bukit Mertarjam, Penang
 * ✉️  You can contact me at [chuqing@graduate.utm.my](mailto:chuqing@graduate.utm.my)
@@ -27,13 +30,15 @@ C++, Python...
 ## Education
 Before this, I graduated in the pre-U program "UTM FOUNDATION IN PHYSICAL SCIENCE" offered by UTM SPACE
 ### Certificates & Qualifications
-<img src="./Certificates/Found.jpg" alt="Image Alt Text" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Certificates/Found.jpg" alt="Image 1" width="48%">
+  <img src="./Certificates/MUET.jpg" alt="Image 2" width="48%">
+</div>
 
-<img src="./Certificates/MUET.jpg" alt="Image Alt Text" width="300"/>
-
-<img src="./Certificates/Transcript.jpg" alt="Image Alt Text" width="300"/>
-
-<img src="./Certificates/spm.jpg" alt="Image Alt Text" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Certificates/Transcript.jpg" alt="Image 1" width="48%">
+  <img src="./Certificates/spm.jpg" alt="Image 2" width="48%">
+</div>
 
 ## Assignments
 
@@ -75,5 +80,4 @@ Becoming a successful system developer requires a effective approach, blending b
 
 #### Reflection
 In this lab, we were able to learn to assemble pc, and got to know more about the components of PC. 
-
 
