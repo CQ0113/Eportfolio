@@ -31,13 +31,15 @@ C++, Python...
 ## Education
 Before this, I graduated in the pre-U program "UTM FOUNDATION IN PHYSICAL SCIENCE" offered by UTM SPACE
 ### Certificates & Qualifications
-<img src="./Certificates/Found.jpg" alt="Image Alt Text" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Certificates/Found.jpg" alt="Image 1" width="20%">
+  <img src="./Certificates/MUET.jpg" alt="Image 2" width="20%">
+</div>
 
-<img src="./Certificates/MUET.jpg" alt="Image Alt Text" width="300"/>
-
-<img src="./Certificates/Transcript.jpg" alt="Image Alt Text" width="300"/>
-
-<img src="./Certificates/spm.jpg" alt="Image Alt Text" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./Certificates/Transcript.jpg" alt="Image 1" width="20%">
+  <img src="./Certificates/spm.png" alt="Image 2" width="20%">
+</div>
 
 ## Assignments
 
