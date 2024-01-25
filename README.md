@@ -82,7 +82,7 @@ In this assignment, I got to know that becoming a successful system developer re
 #### Reflection
 In this lab, we delved into the hands-on experience of assembling a PC, deepening our understanding of its intricate components. Through this immersive process, we not only acquired practical skills in assembling a computer but also gained comprehensive insights into the fundamental building blocks that power these technological marvels. This firsthand exploration has not only expanded our knowledge but has also equipped us with a practical understanding of the synergy among the various components within a PC. As we navigated through the intricacies of PC assembly, we discovered the significance of each component, contributing to a richer and more profound comprehension of the technology that drives modern computing.
 
-- [Design Thinking](https://github.com/CQ0113/Eportfolio/blob/main/TIS%20FINAL%20PROJECT.pdf)
+- [DESIGN THINKING](https://github.com/CQ0113/Eportfolio/blob/main/TIS%20FINAL%20PROJECT.pdf)
 <img src="./Images/Design-Thinking.jpg" alt="Image Alt Text" width="300"/>
 
 #### Reflection
