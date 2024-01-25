@@ -9,10 +9,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A uni student in Software Engineering
 -------------------------------------
 #### Here are some pictures about me
-<img src="./CQimg/CQ1.jpg" alt="Image Alt Text" width="300"/>
-<img src="./CQimg/CQ2.jpg" alt="Image Alt Text" width="300"/>
-<img src="./CQimg/CQ3.jpg" alt="Image Alt Text" width="300"/>
-<img src="./CQimg/CQ4.jpg" alt="Image Alt Text" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./CQimg/CQ1.jpg" alt="Image 1" width="20%">
+  <img src="./CQimg/CQ2.jpg" alt="Image 2" width="20%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./CQimg/CQ3.jpg" alt="Image 1" width="20%">
+  <img src="./CQimg/CQ4.jpg" alt="Image 2" width="20%">
+</div>
 
 * 🌍  I'm based in Bukit Mertarjam, Penang
 * ✉️  You can contact me at [chuqing@graduate.utm.my](mailto:chuqing@graduate.utm.my)
