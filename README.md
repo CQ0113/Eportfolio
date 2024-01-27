@@ -1,3 +1,4 @@
+
 # Github Eportfolio
 
 This is an electronic portfolio (e-portfolio). In this portfolio, I'll showcase the sample of collection of my work, demonstrations, and artifacts that showcase my learning progression, achievement, and evidence of what I can do. 
@@ -73,7 +74,7 @@ In the course of this assignment, we had the opportunity to explore UTM Digital,
 
 #### Reflection 4
 
-Becoming a successful system developer requires a effective approach, blending both hard and soft skills. I will prioritize honing my programming proficiency, understanding system architecture, and mastering relevant technologies. Concurrently, I'll focus on developing soft skills like effective communication and teamwork. Actively engaging in internships and specialized programs will provide hands-on experience, allowing me to apply theoretical knowledge to real-world scenarios. To ensure success, meticulous planning is essential. I'll create a timeline, set achievable goals, and continuously assess my progress. This proactive approach will enable me to stay on track, adapt to emerging trends, and ultimately become a highly skilled and sought-after system developer. 
+In this assignment, I got to know that becoming a successful system developer requires a effective approach, blending both hard and soft skills. I will prioritize honing my programming proficiency, understanding system architecture, and mastering relevant technologies. Concurrently, I'll focus on developing soft skills like effective communication and teamwork. Actively engaging in internships and specialized programs will provide hands-on experience, allowing me to apply theoretical knowledge to real-world scenarios. To ensure success, meticulous planning is essential. I'll create a timeline, set achievable goals, and continuously assess my progress. This proactive approach will enable me to stay on track, adapt to emerging trends, and ultimately become a highly skilled and sought-after system developer. 
 
 - ASSEMBLE PC LAB
 <img src="./Images/pc assemble.jpg" alt="Image Alt Text" width="300"/>
@@ -81,3 +82,8 @@ Becoming a successful system developer requires a effective approach, blending b
 #### Reflection
 In this lab, we delved into the hands-on experience of assembling a PC, deepening our understanding of its intricate components. Through this immersive process, we not only acquired practical skills in assembling a computer but also gained comprehensive insights into the fundamental building blocks that power these technological marvels. This firsthand exploration has not only expanded our knowledge but has also equipped us with a practical understanding of the synergy among the various components within a PC. As we navigated through the intricacies of PC assembly, we discovered the significance of each component, contributing to a richer and more profound comprehension of the technology that drives modern computing.
 
+- [DESIGN THINKING](https://github.com/CQ0113/Eportfolio/blob/main/TIS%20FINAL%20PROJECT.pdf)
+<img src="./Images/Design-Thinking.jpg" alt="Image Alt Text" width="300"/>
+
+#### Reflection
+In this project, I've gained invaluable insights into the design thinking process, discovering its structured approach to problem-solving. Learning the nuances of empathizing with user needs, ideating creative solutions, and embracing iterative refinement has been a transformative experience. Applying design thinking methodologies to solve real-world problems has not only honed my problem-solving skills but has also instilled the importance of adaptability and continuous improvement. The iterative nature of design thinking has taught me the value of flexibility in responding to evolving insights and user feedback. As I conclude this project, I carry forward a comprehensive toolkit for future challenges, equipped with the ability to empathize deeply, think creatively, and iteratively refine solutions – skills that extend beyond this project and are integral to my approach to problem-solving in both academic and professional contexts.
